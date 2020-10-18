@@ -1,0 +1,2 @@
+C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GEC\Week 1\HelloWorld\Debug\HelloWorld.exe
+C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GEC\Week 1\HelloWorld\Debug\HelloWorld.pdb

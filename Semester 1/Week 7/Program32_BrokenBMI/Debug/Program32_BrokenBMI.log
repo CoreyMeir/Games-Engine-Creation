@@ -1,0 +1,5 @@
+﻿  Program32_BrokenBMI.cpp
+C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 7\Program32_BrokenBMI\Program32_BrokenBMI.cpp(30,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 7\Program32_BrokenBMI\Program32_BrokenBMI.cpp(30,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 7\Program32_BrokenBMI\Program32_BrokenBMI.cpp(17,9): warning C4101: 'bmi': unreferenced local variable
+  Program32_BrokenBMI.vcxproj -> C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 7\Program32_BrokenBMI\Debug\Program32_BrokenBMI.exe

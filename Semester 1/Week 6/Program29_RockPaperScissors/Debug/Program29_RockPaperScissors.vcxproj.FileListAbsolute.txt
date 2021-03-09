@@ -1,0 +1,2 @@
+C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 6\Program29_RockPaperScissors\Debug\Program29_RockPaperScissors.exe
+C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 6\Program29_RockPaperScissors\Debug\Program29_RockPaperScissors.pdb

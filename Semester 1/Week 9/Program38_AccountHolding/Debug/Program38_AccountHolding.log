@@ -1,0 +1,4 @@
+﻿  Program38_AccountHolding.cpp
+C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 9\Program38_AccountHolding\Program38_AccountHolding.cpp(19,7): warning C4101: 'while2': unreferenced local variable
+C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 9\Program38_AccountHolding\Program38_AccountHolding.cpp(21,7): warning C4101: 'moreDetails': unreferenced local variable
+  Program38_AccountHolding.vcxproj -> C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 9\Program38_AccountHolding\Debug\Program38_AccountHolding.exe

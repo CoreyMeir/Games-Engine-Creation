@@ -1,0 +1,3 @@
+Name: Corey
+Account number: 12345
+Bank balance: 20000

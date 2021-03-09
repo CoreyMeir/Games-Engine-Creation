@@ -1,0 +1,2 @@
+C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 8\Program36_UsingReferences\Debug\Program36_UsingReferences.exe
+C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 8\Program36_UsingReferences\Debug\Program36_UsingReferences.pdb

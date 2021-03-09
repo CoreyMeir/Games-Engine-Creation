@@ -1,0 +1,4 @@
+﻿  Program27_StringManipulation.cpp
+C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 6\Program27_StringManipulation\Program27_StringManipulation.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 6\Program27_StringManipulation\Program27_StringManipulation.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+  Program27_StringManipulation.vcxproj -> C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 6\Program27_StringManipulation\Debug\Program27_StringManipulation.exe

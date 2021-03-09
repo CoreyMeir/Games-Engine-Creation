@@ -1,0 +1,2 @@
+C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 6\Program27_StringManipulation\Debug\Program27_StringManipulation.exe
+C:\Users\amini\OneDrive - Staffordshire University\Computer Games Programming\GitHub\Games Engine Creation\Semester 1\Week 6\Program27_StringManipulation\Debug\Program27_StringManipulation.pdb
